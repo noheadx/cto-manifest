@@ -11,7 +11,7 @@ _built once - runs anywhere; releases are deployed as containers in any environm
 5. Quality
 _we care for each story that we deliver from end to end; we pair for coding; every story is shipped with tests (TDD); we do code reviews; no release goes out untested; regular smoke tests on production_
 6. Infrastructure
-_we don't own/maintain hardware ourselves; we rely on the expertise of IaaS providers to provide infrstructure services world-wide; if a service is not provided, we will build it_
+_we don't own/maintain hardware ourselves; we rely on the expertise of IaaS providers to provide infrstructure services world-wide; if a service is not provided, we will build it; we are aware of the performance of our platform on the technical and business side_
 7. Architecture
 _we enforce a loose-coupled architecture by deploying functionalities in smaller services; we keep the business logic where it belong; our services work with a communication pattern that allows to be easily extended to with additional services_
 8. Security
