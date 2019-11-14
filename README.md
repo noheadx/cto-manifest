@@ -16,3 +16,7 @@ _we don't own/maintain hardware ourselves; we rely on the expertise of IaaS prov
 _we enforce a loose-coupled architecture by deploying functionalities in smaller services; we keep the business logic where it belong; our services work with a communication pattern that allows to be easily extended to with additional services_
 8. Security
 _we encrypt data at rest and transmission; we don't store passwords in clear text; we reduce external access to our platform; we seggregate all environments; we work with anonymized data only;_
+
+
+## Remarks
+ad 4.), 6.), 7.) I think we need additional documents for these points, describing in deeper technical detail the Dos and Don'ts for each section, like API/Docker style guides, managing cloud infrastructures, etc.
