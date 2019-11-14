@@ -7,7 +7,7 @@ _Small, vertical stories; no separation backend/frontend; constant communication
 3. Release
 _no personal dependencies on release; release automation(CI); trust in releases (good night's sleep); feedback on success/failure_
 4. Container
-_built once - runs anywhere; releases are deployed as containers in any environment_
+_built once - runs anywhere; releases are deployed as containers in any environment; we don't rely on pre-build images for security reasons but rather build them ourselves_
 5. Quality
 _we care for each story that we deliver from end to end; we pair for coding; every story is shipped with tests (TDD); we do code reviews; no release goes out untested; regular smoke tests on production_
 6. Infrastructure
