@@ -21,44 +21,44 @@ We want to enable patients everywhere in the world to access services and inform
 
 ## Principles
 We aim for a working environment according to the **Agile Manifesto** by
-1.	…working on small stories that iteratively bring value to the product 
-2.	…having no separation of responsibilities (e.g. backend/frontend) between the stories.
-3.	…constantly improving our way of working
-4.	…treating each other with respect.
+-	…working on small stories that iteratively bring value to the product 
+-	…having no separation of responsibilities (e.g. backend/frontend) between the stories.
+-	…constantly improving our way of working
+-	…treating each other with respect.
 
 We **trust our releases** by
-5.	…aiming for an automated release process 
-6.	…removing personal dependencies 
-7.	…having an immediate feedback on success/failure.
+-	…aiming for an automated release process 
+-	…removing personal dependencies 
+-	…having an immediate feedback on success/failure.
 
 We embrace the advantages of **container technology** by
-8.	…making sure our releases are deployable as containers in any environment
-9.	…following the infrastructure-as-code paradigm
-10.	…introducing parity between all environments
+-	…making sure our releases are deployable as containers in any environment
+-	…following the infrastructure-as-code paradigm
+-	…introducing parity between all environments
 
 We stand for **high-quality features** by
-11.	…doing code reviews
-12.	…shipping every story with automated tests
-13.	…pairing for the implementation if possible
-14.	…not releasing untested code
+-	…doing code reviews
+-	…shipping every story with automated tests
+-	…pairing for the implementation if possible
+-	…not releasing untested code
 
 We don't own & maintain hardware **infrastructure** ourselves 
-15.	…but rather rely on the expertise of IaaS providers for infrastructure services world-wide.
-16.	…and build a service only when it is not provided by a third-party vendor.
-17.	…and we are aware of the performance of our platform at any time.
+-	…but rather rely on the expertise of IaaS providers for infrastructure services world-wide.
+-	…and build a service only when it is not provided by a third-party vendor.
+-	…and we are aware of the performance of our platform at any time.
 
 We enforce a loosely coupled **architecture** by
-18.	…deploying functionalities in services
-19.	…extending it easily with additional services
-20.	…following the needs of the business
+-	…deploying functionalities in services
+-	…extending it easily with additional services
+-	…following the needs of the business
 
 We care for the **security** of our software by 
-21.	…encrypting data at rest and transmission
-22.	…not storing passwords in clear text
-23.	…working with anonymized data only
-24.	…removing technical debt
+-	…encrypting data at rest and transmission
+-	…not storing passwords in clear text
+-	…working with anonymized data only
+-	…removing technical debt
 
 We continuously measure **metrics** throughout the platform because
-25.	…we want to react immediately on abnormal behavior.
-26.	…only what gets measured can be improved,
-27.	…our software services are a core element of the company’s success.
+-	…we want to react immediately on abnormal behavior.
+-	…only what gets measured can be improved,
+-…	…our software services are a core element of the company’s success.
