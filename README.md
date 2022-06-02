@@ -61,4 +61,4 @@ We care for the **security** of our software by
 We continuously measure **metrics** throughout the platform because
 -	…we want to react immediately on abnormal behavior.
 -	…only what gets measured can be improved,
--…	…our software services are a core element of the company’s success.
+-	…our software services are a core element of the company’s success.
