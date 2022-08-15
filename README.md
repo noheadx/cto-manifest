@@ -3,7 +3,7 @@
 ## Motivation
 Every digital business is driven by 
 1. **customers** with an evergrowing demand for fast, reliable, and intuitive software. These are the people that directly benefit from the provided value.
-2. **market regulations** define the legal and economical frame within the company operates. Some companies might adhere to tighter laws than others.
+2. **market regulations** define the legal and economic frame within the company operates. Some companies might adhere to tighter laws than others.
 3. **stakeholders** with a specific interest in the company's success. These people benefit from things like revenue, patents, or reputation.
 
 This manifesto defines the fundamental rules of collaboration within an autonomously-working Engineering department to deliver 
